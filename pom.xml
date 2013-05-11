@@ -43,9 +43,9 @@
     </repositories>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:raykrueger/hibernate-memcached.git</developerConnection>
-        <connection>scm:git:git@github.com:raykrueger/hibernate-memcached.git</connection>
-        <url>http://github.com/raykrueger/hibernate-memcached/</url>
+        <developerConnection>scm:git:git@github.com:breadlabs/hibernate-memcached.git</developerConnection>
+        <connection>scm:git:git@github.com:breadlabs/hibernate-memcached.git</connection>
+        <url>http://github.com/breadlabs/hibernate-memcached/</url>
     </scm>
 
     <properties>
